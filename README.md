@@ -92,3 +92,11 @@ Read our [Security Policy](SECURITY.md).
 ## License
 
 MIT
+
+---
+
+## Public Announcement
+
+Discover the vision behind MODEL-COUNCIL and explore opportunities for collaboration, partnership, and adoption.
+
+**[Read the Official Project Announcement](ANNOUNCEMENT.md)**
