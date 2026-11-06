@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071426"/>
+      <stop offset=".55" stop-color="#10264a"/>
+      <stop offset="1" stop-color="#241d50"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#55c8ff"/>
+      <stop offset="1" stop-color="#9274ff"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#5a8cff" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#5a8cff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="520" fill="url(#bg)"/>
+  <circle cx="1280" cy="170" r="340" fill="url(#glow)"/>
+  <circle cx="260" cy="450" r="250" fill="url(#glow)"/>
+  <g fill="none" stroke="#8bbcff" stroke-opacity=".18">
+    <path d="M0 390 L380 160 L760 390 L1140 160 L1600 390"/>
+    <path d="M0 430 L380 200 L760 430 L1140 200 L1600 430"/>
+    <path d="M0 470 L380 240 L760 470 L1140 240 L1600 470"/>
+  </g>
+  <g transform="translate(1160 260)" fill="none" stroke="url(#blue)" stroke-width="5">
+    <circle r="110" opacity=".7"/>
+    <circle r="72" opacity=".8"/>
+    <circle r="30"/>
+    <path d="M-110 0H110 M0-110V110 M-78-78L78 78 M78-78L-78 78" opacity=".7"/>
+    <circle cx="-110" cy="0" r="9" fill="#65d3ff"/>
+    <circle cx="110" cy="0" r="9" fill="#9a83ff"/>
+    <circle cx="0" cy="-110" r="9" fill="#65d3ff"/>
+    <circle cx="0" cy="110" r="9" fill="#9a83ff"/>
+  </g>
+  <g font-family="Arial, sans-serif">
+    <text x="110" y="190" fill="#8ccfff" font-size="22" letter-spacing="8">INDEPENDENT AI RESEARCH</text>
+    <text x="105" y="290" fill="#ffffff" font-size="76" font-weight="700" letter-spacing="2">MODEL-COUNCIL</text>
+    <text x="110" y="345" fill="#c5d7f4" font-size="27">Multi-model consultation. Evidence. Critical review.</text>
+    <text x="110" y="420" fill="#8fa9ce" font-size="18" letter-spacing="3">INDEPENDENCE  •  TRANSPARENCY  •  VERIFICATION</text>
+  </g>
+</svg>
