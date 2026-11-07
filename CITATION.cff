@@ -1,10 +1,17 @@
 cff-version: 1.2.0
 message: "If you use MODEL-COUNCIL in research, software, or publications, please cite this project."
 title: "MODEL-COUNCIL"
-abstract: "An early-stage, provider-neutral Python project for developing structured multi-model AI consultation, debate, and evidence evaluation."
+abstract: "A provider-neutral Python framework for structured multi-model deliberation: independent positions, pseudonymised cross-critique, revision rounds, weighted voting, structured disagreement analysis, and fully auditable transcripts."
 type: software
 license: MIT
 repository-code: "https://github.com/tibatechapp-ship-it/model-council"
-version: 0.1.0
+version: 20.0.0
+date-released: "2026-11-07"
+keywords:
+  - large-language-models
+  - multi-agent-systems
+  - deliberation
+  - evidence-evaluation
+  - responsible-ai
 authors:
   - name: "MODEL-COUNCIL Contributors"
